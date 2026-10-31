@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=""C:\Users\saransh\Desktop\saransh.png"" width="100%" alt="Saransh khanna AI Automation Engineer"/>
+<img src="C:\Users\saransh\Desktop\saransh.png" width="100%" alt="Saransh khanna AI Automation Engineer"/>
 
 </div>
 
