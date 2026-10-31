@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="![Uploading saransh.png…]" width="100%" alt="Saransh khanna AI Automation Engineer"/>
+<img src="![Uploading saransh.png…]()
+" width="100%" alt="Saransh khanna AI Automation Engineer"/>
 
 </div>
 
