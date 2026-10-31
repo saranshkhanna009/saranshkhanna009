@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://share.gemini.google/lZRBWV5d3jdD" width="100%" alt="Saransh khanna AI Automation Engineer"/>
+<img src="/saransh.png" width="100%" alt="Saransh khanna AI Automation Engineer"/>
 
 </div>
 
@@ -102,7 +102,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="mailto:shubhamahuja9999@gmail.com">
+<a href="mailto:saranshk638@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <br><sub><b>Get In Touch</b></sub>
 </a>
